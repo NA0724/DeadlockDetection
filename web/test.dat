@@ -1,0 +1,12 @@
+# existing maximum resources 
+6 3 4 2
+# pid assigned needed
+13512 assigned 3 0 1 1 need 1 1 0 0
+5646  assigned 0 1 0 0 need 0 1 1 2   
+25553 assigned 1 1 1 0 need 3 1 0 0 
+13665 assigned 1 1 0 1 need 0 0 1 0 
+ 3206 assigned 0 0 0 0 need 2 1 1 0 
+
+# request
+5646 request 0 0 1 0
+3206 request 0 0 1 0
